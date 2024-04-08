@@ -1,0 +1,19 @@
+.grid{
+    display: flex;
+    width: 606px;
+    height: 606px;
+    flex-wrap: wrap;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: rgba(181, 181, 181, 0.303);
+}
+
+.mole{
+    background-image: url(images/mole.webp);
+    background-size: cover;
+    background-position: center;
+}
